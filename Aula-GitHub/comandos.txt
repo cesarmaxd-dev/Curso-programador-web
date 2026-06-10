@@ -1,0 +1,10 @@
+git add .     ->   Este comando irá adicionar todas as alterações realizadas
+ no projeto ao meu repositorio. (O "." neste comando informa para adicionar todas as
+  alterações realizados no projeto ao meu reposiório.).
+git commit -m "..." ->      Este comando serve para comentar as atualizações realizadas no meu projeto. (O comentário ficará dentro das "" substituindo os ...).
+
+git push          ->        Este comando irá enviar as
+ atualizações do meu projeto para o github. (Para realizar este
+ comando é necessario antes de usar os comando git "git add." e "git commit
+ -m "...". )
+ git pull      -> Este comando irá baixar á última versão do meu repositorio publicada no github 
