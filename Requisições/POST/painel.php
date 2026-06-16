@@ -1,0 +1,4 @@
+<?php
+session_start();
+echo "Bem Vindo," . $_SESSION['usuario']; 
+?>

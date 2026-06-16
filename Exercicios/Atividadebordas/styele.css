@@ -1,0 +1,14 @@
+.titulo-principal{
+    border-top: solid sienna;
+    border-bottom: solid sienna;
+    color: sienna;
+}
+.Subtitulo{
+     border: solid sienna;
+    color: rgb(255, 255, 255);
+    background-color: sienna;
+}
+.IMAGEM{
+    border: solid  sienna;
+    padding: 15px;
+}

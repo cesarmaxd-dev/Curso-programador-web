@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+h1{
+    font-family: monospace;
+}
+h3{
+    font-family: monospace;
+    font-size: larger 150px;
+}
