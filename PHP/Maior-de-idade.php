@@ -1,10 +1,8 @@
 <?php
 $a = readline("Digite a sua idade:");
 
-if($a >= 18){
+if ($a >= 18) {
     echo "Você é  maior de idade";
-}  else{
+} else {
     echo "Você é menor de idade";
 }
-
-?>

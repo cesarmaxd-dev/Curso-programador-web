@@ -1,14 +1,11 @@
 <?php
-$num1 = readline ("Escreva um numero");
-$num2 = readline ("Escreva um numero");
+$num1 = readline("Escreva um numero");
+$num2 = readline("Escreva um numero");
 
-if($num1 > $num2){
+if ($num1 > $num2) {
     echo "O numero $num1\n";
-}else if($num1 < $num2){
+} else if ($num1 < $num2) {
     echo "O numero $num2\n";
-}else {
+} else {
     echo "Os numeros são iguaisn\n";
 }
-
-
-?>
